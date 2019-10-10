@@ -1,6 +1,6 @@
 var img;
 function preload() {
-  img = loadImage("images/Jinx.jpg");
+  img = loadImage("images/Jinx.jpg"); 
 }
   
 function setup() {
