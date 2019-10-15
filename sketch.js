@@ -8,7 +8,7 @@ function setup() {
 }
 
 function draw() {
-  background(250);
+  background(750);
   ellipse(150, 150, 180, 180);
   point(80,150);
   point(150,150);
