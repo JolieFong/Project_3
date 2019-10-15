@@ -14,6 +14,10 @@ function draw() {
   line(50, 50, 100, 50);
   
 }
+
+function setup() {
+  createCanvas(1400, 1400);
+}
 function draw() {
   background(750);
   ellipse(200, 30, 120, 80);
