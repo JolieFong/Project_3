@@ -1,8 +1,3 @@
-<html>
-<body bgcolor="ffffff">
-  
-<img src = "images/Virus.jpg"><br><br>
-
 function setup() {
   createCanvas(1400, 1400);
 }
@@ -15,6 +10,3 @@ function draw() {
   line(50, 50, 100, 50);
   
 }
-
-</body>
-</html>
