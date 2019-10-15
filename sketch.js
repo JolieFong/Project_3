@@ -1,7 +1,7 @@
 <html>
 <body bgcolor="ffffff">
   
-<img src = "images/Virus.jpg"> 
+<img src = "images/Virus.jpg"><br><br>
 
 function setup() {
   createCanvas(1400, 1400);
