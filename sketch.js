@@ -1,7 +1,11 @@
+var img;
+function preload() {
+  img = loadImage("images/Virus.jpg"); 
+}
+
 function setup() {
   createCanvas(1400, 1400);
 }
-
 function draw() {
   background(750);
   ellipse(150, 150, 180, 180);
