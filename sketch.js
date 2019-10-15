@@ -14,3 +14,9 @@ function draw() {
   line(50, 50, 100, 50);
   
 }
+function draw() {
+  background(750);
+  ellipse(200, 30, 120, 80);
+  fill(255, 0, 0);
+  
+}
