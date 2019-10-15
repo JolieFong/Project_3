@@ -20,7 +20,7 @@ function setup() {
 }
 function draw() {
   background(750);
-  ellipse(200, 30, 120, 80);
+  ellipse(200, 200, 200, 200);
   fill(255, 0, 0);
   
 }
